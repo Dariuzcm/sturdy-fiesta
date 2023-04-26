@@ -1,0 +1,6 @@
+[submodule "ServerKirana"]
+	path = ServerKirana
+	url = https://github.com/Dariuzcm/ServerKirana.git
+[submodule "ClientKirana"]
+	path = ClientKirana
+	url = https://github.com/Dariuzcm/ClientKirana.git
